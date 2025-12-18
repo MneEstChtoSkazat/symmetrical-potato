@@ -1,0 +1,9 @@
+fx: 640.00
+fy: 640.00
+cx: 640.00
+cy: 360.00
+width: 1280
+height: 720
+fov: 90
+gimbal_pitch_deg: -90.0
+fixed_yaw_deg: 0.0
